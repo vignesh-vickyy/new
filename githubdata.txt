@@ -3,3 +3,5 @@ Steps for app devlopment
 1. It should be an decent UI
 2. It has to support backup chats 
 3. It has to stand and deliver the msgs if any network isssue.
+4. adding audio call feature.
+5. adding video call feature.
